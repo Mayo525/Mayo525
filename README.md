@@ -1,8 +1,4 @@
-<h3 align="center">"Programmer horse who likes to program horse things"</h3>
-
-###
-
-<p align="left">I like looking at old programs or ones with stupid bugs. I enjoy fixing them and making my own versions that work better and do what I want. It feels good to take something broken and make it right on my own.<br><br>I also like making custom Discord Rich Presence. It might seem pointless to some, but it’s fun for me.<br><br>You’ll mostly find a lot of pointless and useless projects here. I keep them around just for fun. I don’t really care what others think. If I think it’s good, I stick with it. It keeps me motivated. Maybe someday some of these projects will get popular and people might see me differently. <br><br>Well, don’t expect new projects all the time. I’m not a creative person. sometimes my friends suggest ideas, and I start working on them right away.</p>
+<h5 align="left">I like looking at old programs or ones with stupid bugs. I enjoy fixing them and making my own versions that work better and do what I want. It feels good to take something broken and make it right on my own.<br><br>You’ll mostly find a lot of pointless and useless projects here. I keep them around just for fun. I don’t really care what others think. If I think it’s good, I stick with it. It keeps me motivated. Maybe someday some of these projects will get popular and people might see me differently. <br><br>Well, don’t expect new projects all the time. I’m not a creative person. sometimes my friends suggest ideas, and I start working on them right away.</h5>
 
 ###
 
